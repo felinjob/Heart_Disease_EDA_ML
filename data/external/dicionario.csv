@@ -1,0 +1,13 @@
+Variável,Descrição,Tipo,Subtipo
+Age,Idade em anos.,Quantitativa,Contínua
+Sex,"Gênero (1 = Masculino, 0 = Feminino).",Qualitativa,Nominal
+Chest Pain Type,"Tipo de dor no peito (1 = Angina típica, 2 = Angina atípica, 3 = Dor não anginosa, 4 = Assintomático).",Qualitativa,Ordinal
+Resting BP S,Pressão arterial em repouso em mm Hg.,Quantitativa,Contínua
+Cholesterol,Colesterol sérico em mg/dl.,Quantitativa,Contínua
+Fasting Blood Sugar,Açúcar no sangue em jejum > 120 mg/dl (1 = Verdadeiro; 0 = Falso).,Qualitativa,Nominal
+Resting ECG,"Resultados do eletrocardiograma em repouso (0 = Normal, 1 = Anormalidade da onda ST-T, 2 = Hipertrofia ventricular esquerda).",Qualitativa,Ordinal
+Max Heart Rate,Frequência cardíaca máxima alcançada.,Quantitativa,Contínua
+Exercise Angina,"Angina induzida por exercício (1 = Sim, 0 = Não).",Qualitativa,Nominal
+Oldpeak,Depressão do segmento ST induzida por exercício em relação ao repouso.,Quantitativa,Contínua
+ST Slope,"Inclinação do segmento ST durante o pico do exercício (1 = Inclinada para Cima, 2 = Plana, 3 = Inclinada para Baixo).",Qualitativa,Ordinal
+Target,"Diagnóstico de doença cardíaca (1 = Doença presente, 0 = Ausente).",Qualitativa,Nominal
