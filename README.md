@@ -1,12 +1,6 @@
-<p align="center">
-  <img src="https://i.imgur.com/0B6ttpO.png" alt="Logo da equipe" width="400"/>
-</p>
 
 ## Análise dos Fatores de Risco Associados a Doenças Cardíacas
 
-<p align="center">
-  <img src="https://imgur.com/RcLLVLq.png" alt="logo do dataset" width="300"/>
-</p>
 
 Doenças cardíacas são uma das principais causas de mortalidade em todo o mundo, representando um grande problema de saúde pública. 
 A identificação precoce de fatores de risco e a implementação de intervenções preventivas são essenciais para reduzir a incidência e a gravidade dessas condições. 
@@ -23,6 +17,5 @@ Essa análise se insere no contexto mais amplo de prevenção e gestão de doen�
 </p>
 
 
-## Desenvolvedores
- - [Arthur Ramalho](https://github.com/Arthurrfreire)
+## Desenvolvedor
  - [Felipe Teles](https://github.com/felinjob)
